@@ -2,7 +2,7 @@
 Create a user login form using Formik
 
 <p align="center">
-  <img width="500" height="300" src="FormikForm.jpg"
+  <img width="250" height="300" src="FormikForm.jpg"
 </p>
 
 ## <ins>What it does
